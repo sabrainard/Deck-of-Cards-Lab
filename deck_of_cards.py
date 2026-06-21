@@ -1,8 +1,3 @@
-# Stephanie Brainard
-# CIS 261
-# Week 8
-# Deck of Cards Lab
-
 import random
 
 #displays heading
